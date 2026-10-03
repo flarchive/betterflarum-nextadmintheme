@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of betterflarum/nextadmintheme.** Not for installation: use [Packagist](https://packagist.org/packages/betterflarum/nextadmintheme) or the [upstream repository](https://github.com/betterflarum/nextadmintheme).
 
-**0** versions archived · Latest: [`v3.0.0`](https://github.com/flarchive/betterflarum-nextadmintheme/tree/archive/v3.0.0) · License: `MIT` · Flarum: `^1.8.1`
+**3** versions archived · Latest: [`v3.0.0`](https://github.com/flarchive/betterflarum-nextadmintheme/tree/archive/v3.0.0) · License: `MIT` · Flarum: `^1.8.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.1.0` | 2023-11-11 | `^1.8.1` | [Browse](https://github.com/flarchive/betterflarum-nextadmintheme/tree/archive/v1.1.0) |
+| `v2.0.0` | 2024-03-23 | `^1.8.1` | [Browse](https://github.com/flarchive/betterflarum-nextadmintheme/tree/archive/v2.0.0) |
+| `v3.0.0` | 2025-07-15 | `^1.8.1` | [Browse](https://github.com/flarchive/betterflarum-nextadmintheme/tree/archive/v3.0.0) |
 
 Catalog entry: [packages/betterflarum-nextadmintheme.json](https://github.com/flarchive/archive-index/blob/main/packages/betterflarum-nextadmintheme.json)
 
